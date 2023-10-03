@@ -1,10 +1,8 @@
 # How to make a Vm/w Azure 
 
-There are many ways to make a Virtural machine and many diffrent softwares we could use. I will be using Azure, Azure is a cloud computing and lets us do alot of things
-some examples are: Makeing a Vm, Managing teams, File transfers, Running tasks, Computing backend calculations, and much more.
-If you would like to know what a Virtual machine is, [Google actual has a great article about it.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuYHIkdmBAxUknokEHdAuCW0QFnoECBwQAQ&url=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Fresources%2Fcloud-computing-dictionary%2Fwhat-is-a-virtual-machine&usg=AOvVaw08SeczljyrIzAOlpuWZ-Lr&opi=89978449)
+There are many ways to make a Virtual machine and many different softwares we could use. I will be using Azure. Azure is cloud computing and lets us do a lot of things. Some examples are: Making a Vm, Managing teams, File transfers, Running tasks, Computing backend calculations, and much more. If you would like to know what a Virtual machine is, [Google actual has a great article about it.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuYHIkdmBAxUknokEHdAuCW0QFnoECBwQAQ&url=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Fresources%2Fcloud-computing-dictionary%2Fwhat-is-a-virtual-machine&usg=AOvVaw08SeczljyrIzAOlpuWZ-Lr&opi=89978449)
 
-What you will need: A microsoft account and a Credit/Debit card. (if you are doing the free trail it will not charge unless you use 200 credits or 30 days has pass)
+What you will need: A microsoft account and a Credit/Debit card. (if you are doing the free trial it will not charge unless you use 200 credits or 30 days has pass)
 
 1. To get started We are going to go to Their main website.(https://azure.microsoft.com/en-us/)
 ![Screenshot 2023-10-02 231822](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/a892f6fc-4957-43ae-8c7c-5c91fffb139a)
@@ -50,12 +48,31 @@ There is an option for a free trial that will give us 200 credits for 30 days so
     what availability zone to deploy your Virtual Machine.
     I will be naming my Vm "Test"
 ![amUwJ79SKV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/adadce75-4802-4ccd-bf25-654a3165bc54) ![tioO29zQt6](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/41af45a9-b070-46f4-acd3-10920100604e)
-15. Now you will see security type you can mess with these if you would like standrard, trusted launch, or confidentional, I will be using trusted launch.
-    Next is choosing our os or operating system they have alot of options and diffrent versions like:Windows10 pro/ Windows 11 pro/ ubuntu/Windows servers. I will be selecting windows 11 pro.
-    Next is Vm architecture wich we will not have to mess with now but is usefull when using certian porgrams. Eviction type and policy we will not mess with right now. 
+15. Now you will see security types you can mess with if you would like standard, trusted launch, or confidential, I will be using trusted launch.
+    Next is choosing our OS or operating system. They have a lot of options and different versions like:Windows10 pro/ Windows 11 pro/ ubuntu/Windows servers. I will be selecting windows 11 pro.
+    Next is Vm architecture which we will not have to mess with now but is useful when using certain programs. Eviction type and policy we will not mess with right now. 
     ![udg0ElOPcg](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1f63ac70-7f25-4cb7-8bf8-307d7c3b46a7)![opera_IyL0TOg3uT](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c41d09f6-39c5-4ffc-b565-497fe2fde23d)
+16. Next we will see "Size" This just means how fast it will be. For desktop work I don't see going over 2 vcpu and 16 gbs being needed. ( If you are on the free trail you have a limit of how much you can use,
+     you can double check in azure but i believe it is 8 vcpus and 32gb of ram. I view this as two vms 4 vcpus and 16gbs ram) I will be using 2vcpus and 16 ram.
+     Next is naming the Admin account I am naming mine Testt (you can name yours anything) and enter a password 
+    ![vnTThtMNLD](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/cf888429-bb8f-4745-a9f6-f54372eb542d)
+17. We will be sure to "allow selected ports" and "RDP (3389). We will also select saying we confirm we have a windows 10/11 License with multi tenant hosting. We can change Disk,Networking,Management,Monitoring,Advanced,
+    and Tags but we do not need to mess with thtses right now. I will select Review and Create.
+![4ps2sO5Dw8](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/ac777f39-861b-4e2e-91c8-a21b78669d67)
+18. Here we can see how much it is an hour and when we scroll down it will show us our settings and what we selected. Now hit "Create"
+   ![opera_gZQzsSHKyu](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/a58c968a-a3d7-4e83-a6db-77070bde758c)  ![BiizVgBoeD](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1b9127a9-9ca9-4d0b-ba26-3b7c71bc2149)
+19. It will now start to Deploy, It may take it a bit but when it is done head back to Virtual machine in Azure. (by typing Vm in the search bar.)
+    Y0u should now be able to see it, it might still be saying it is creating but you can hit the name of your Vm. (it should be blue and mine is called test so i will select it.)
+    ![49KFVhTeac](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/0bd7683a-30da-4de8-a5e4-45a76d635ecd)
+20. This is what you will see it will show us everything from ip, where it is and everything between our next step is to Remote into it.(Note: This is for Windows not MacOs)
+    We will open "Remote Desktop Connection". Hit your start button and search "Remote Desktop Connection".
+    ![opera_wfxlwa763o](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c9cc66dd-4360-4397-8599-7c3ed19c2633)
+22. When you open "Remote Desktop Connection" It will look like this.
     
-
-
+    ![mstsc_KBKe34TGhe](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/40d12c91-2953-4992-9293-9900f33c5803)
     
-
+23. Now all you need is the Puplic IP from your Vm and enter it into "Remote Desktop Connection". After that you will need to log into the Admin you made and you are done.
+    ![SISJxtY6n3](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/e4a3ed96-cb1c-454f-b45b-f4f55cc6cda7) ![n5x0F1w95l](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/22214d3f-95a3-43b5-a95f-99698c57f2a7)
+    ![1dVd6ya4cq](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/28b4b8a5-d5c5-4c32-96ea-4ed119deeec2) ![lUHKQeHpH9](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/48fff35e-2622-49f2-9a27-bf74ae6d35f3)
+    ![8onf5n8zNs](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6fb453a8-c7b2-44fe-98ae-65c6db16086a) ![hrh6pCFbxp](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/82ee1661-b42d-4b30-97f3-7f3c7be65fad)
+    ![mstsc_KBuQeuGYc4](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/79ee733f-feb2-4123-be9b-31ed7051da39)
