@@ -71,8 +71,18 @@ There is an option for a free trial that will give us 200 credits for 30 days so
     
     ![mstsc_KBKe34TGhe](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/40d12c91-2953-4992-9293-9900f33c5803)
     
-23. Now all you need is the Puplic IP from your Vm and enter it into "Remote Desktop Connection". After that you will need to log into the Admin you made and you are done.
+23. Now all you need is the Puplic IP from your Vm and enter it into "Remote Desktop Connection". After that you will need to log into the Admin you made.
     ![SISJxtY6n3](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/e4a3ed96-cb1c-454f-b45b-f4f55cc6cda7) ![n5x0F1w95l](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/22214d3f-95a3-43b5-a95f-99698c57f2a7)
+24. Enter your Credentials
+        
     ![1dVd6ya4cq](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/28b4b8a5-d5c5-4c32-96ea-4ed119deeec2) ![lUHKQeHpH9](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/48fff35e-2622-49f2-9a27-bf74ae6d35f3)
-    ![8onf5n8zNs](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6fb453a8-c7b2-44fe-98ae-65c6db16086a) ![hrh6pCFbxp](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/82ee1661-b42d-4b30-97f3-7f3c7be65fad)
+25. Hit yes
+    ![8onf5n8zNs](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6fb453a8-c7b2-44fe-98ae-65c6db16086a)
+26. Select Next or change anything you want to, you do not need to say yest to any of thses settings.
+
+![hrh6pCFbxp](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/82ee1661-b42d-4b30-97f3-7f3c7be65fad)
+
+27. Cngrats you are now in your Vm and can do anything you would like to. 
     ![mstsc_KBuQeuGYc4](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/79ee733f-feb2-4123-be9b-31ed7051da39)
+
+    Thank you for following this guide and let me know if you are having issues or need help. 
