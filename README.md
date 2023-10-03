@@ -1,7 +1,8 @@
 # How to make a Vm/w Azure 
 
 There are many ways to make a Virtural machine and many diffrent softwares we could use. I will be using Azure, Azure is a cloud computing and lets us do alot of things
-some examples are: Makeing a Vm, Managing teams, File transfers, Running tasks, Computing backend calculations. and much more. 
+some examples are: Makeing a Vm, Managing teams, File transfers, Running tasks, Computing backend calculations, and much more.
+If you would like to know what a Virtual machine is [Google actual has a great article about it.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXuYHIkdmBAxUknokEHdAuCW0QFnoECBwQAQ&url=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Fresources%2Fcloud-computing-dictionary%2Fwhat-is-a-virtual-machine&usg=AOvVaw08SeczljyrIzAOlpuWZ-Lr&opi=89978449)
 
 What you will need: A microsoft account and a Credit/Debit card. (if you are doing the free trail it will not charge unless you use 200 credits or 30 days has pass)
 
@@ -30,7 +31,7 @@ There is an option for a free trial that will give us 200 credits for 30 days so
 9. When you are at the main page you can either select Virtual machines or type Vm/ VIrtual machines into the search bar.
    THere are other ways we could do this, like making a resource group before hand but I perfer it this way. 
 ![E7CENPqooV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c0bffa06-79a5-46f8-94b1-51696939d8dd)
-
+10. When you select or type Virtual machines 
 
 
 
