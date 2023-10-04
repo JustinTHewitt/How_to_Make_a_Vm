@@ -7,15 +7,15 @@ What you will need: A microsoft account and a Credit/Debit card. (if you are doi
 1. To get started We are going to go to Their main website.(https://azure.microsoft.com/en-us/)
 ![Screenshot 2023-10-02 231822](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6f099b54-1435-44fb-aca2-83b5d6b31ad9)
 2. After we had to their main website we will hit get started. 
-![Screenshot 2023-10-02 2318222](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/027db126-bc0e-4abc-a816-7e1bfdd67d4f)
+![Screenshot 2023-10-02 2318222](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/15e73726-9a2e-4b52-86d8-dcb8d17f2fb0)
 That will bring us to Pay as you go.
-![opera_NBF3f2t5es](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/20d11388-10a7-46fe-844c-da5ffafdf8b1)
+![opera_NBF3f2t5es](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/bd05fb06-1cac-4ed1-81c1-5450fb6026b6)
 Pay as you go is pretty forward, it means you will pay for as much as you use. Before you do anything it will let you know how much it would be by hour.
 We do need to be careful when using as we could be charged when we are done with projects because we did not delete everything when we were done.
 There is an option for a free trial that will give us 200 credits for 30 days so whichever comes first. 
 
 3. Now we will hit get started, again. 
-![S5gx6ApjiZ](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/45c3581c-f8db-44b4-8d2f-41f408b25c48)
+![S5gx6ApjiZ](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/5fab6846-e684-4642-9b9f-dfaab23e8046)
 4. That will bring us to a Sign up/Sign.
 ![kWCU57Zuc3](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/30f75e75-b611-4e23-9b48-16dd2d7d5c8f)
 5. After signing up/loging in with a micrsoft account it should bring you to this page.
