@@ -17,9 +17,9 @@ There is an option for a free trial that will give us 200 credits for 30 days so
 3. Now we will hit get started, again. 
 ![S5gx6ApjiZ](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/5fab6846-e684-4642-9b9f-dfaab23e8046)
 4. That will bring us to a Sign up/Sign.
-![kWCU57Zuc3](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/30f75e75-b611-4e23-9b48-16dd2d7d5c8f)
+![kWCU57Zuc3](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/5ea31ab8-d6c9-47a7-9e20-2988370e30e5)
 5. After signing up/loging in with a micrsoft account it should bring you to this page.
-![opera_QDewBXjUAj](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/042ec436-a97b-48c6-8787-5f49e57832ff)
+![opera_QDewBXjUAj](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/72d3441a-a6a4-4f69-8e89-f7c596fcc61b)
 6. You will select start free trail.
 ![lAKUgksaPG](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/afdf3850-63bf-45fd-b933-c2052c5eca7a)
 7. It will bring you to a new page were you will need to select start free. (In some cases you will need to log in agian.)
