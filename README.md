@@ -50,39 +50,42 @@ There is an option for a free trial that will give us 200 credits for 30 days so
 15. Now you will see security types you can mess with if you would like standard, trusted launch, or confidential, I will be using trusted launch.
     Next is choosing our OS or operating system. They have a lot of options and different versions like:Windows10 pro/ Windows 11 pro/ ubuntu/Windows servers. I will be selecting windows 11 pro.
     Next is Vm architecture which we will not have to mess with now but is useful when using certain programs. Eviction type and policy we will not mess with right now. 
-    ![udg0ElOPcg](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1f63ac70-7f25-4cb7-8bf8-307d7c3b46a7)![opera_IyL0TOg3uT](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c41d09f6-39c5-4ffc-b565-497fe2fde23d)
+  ![udg0ElOPcg](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/671d214d-b631-4f84-8746-60e409bdfa4d)
+![opera_IyL0TOg3uT](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/d709a395-c711-4ca9-a06f-89cba86dd499)
 16. Next we will see "Size" This just means how fast it will be. For desktop work I don't see going over 2 vcpu and 16 gbs being needed. ( If you are on the free trail you have a limit of how much you can use,
      you can double check in azure but i believe it is 8 vcpus and 32gb of ram. I view this as two vms 4 vcpus and 16gbs ram) I will be using 2vcpus and 16 ram.
      Next is naming the Admin account I am naming mine Testt (you can name yours anything) and enter a password 
-    ![vnTThtMNLD](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/cf888429-bb8f-4745-a9f6-f54372eb542d)
+   ![vnTThtMNLD](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/dcdd22ad-997b-4eaa-a167-1f1a4c7702f9)
 17. We will be sure to "allow selected ports" and "RDP (3389). We will also select saying we confirm we have a windows 10/11 License with multi tenant hosting. We can change Disk,Networking,Management,Monitoring,Advanced,
     and Tags but we do not need to mess with thtses right now. I will select Review and Create.
-![4ps2sO5Dw8](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/ac777f39-861b-4e2e-91c8-a21b78669d67)
+![4ps2sO5Dw8](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/8d09dc00-2dad-447a-8289-dbd9960bc46b)
 18. Here we can see how much it is an hour and when we scroll down it will show us our settings and what we selected. Now hit "Create"
-   ![opera_gZQzsSHKyu](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/a58c968a-a3d7-4e83-a6db-77070bde758c)  ![BiizVgBoeD](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1b9127a9-9ca9-4d0b-ba26-3b7c71bc2149)
+  ![opera_gZQzsSHKyu](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c88d0909-3c3c-4e82-8cac-d64e25d40e79)![BiizVgBoeD](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/202eb857-2dd7-4cf5-acf7-78272c642e7e)
 19. It will now start to Deploy, It may take it a bit but when it is done head back to Virtual machine in Azure. (by typing Vm in the search bar.)
     Y0u should now be able to see it, it might still be saying it is creating but you can hit the name of your Vm. (it should be blue and mine is called test so i will select it.)
-    ![49KFVhTeac](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/0bd7683a-30da-4de8-a5e4-45a76d635ecd)
+    ![opera_UUMIme5FMs](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/aa3bc0d6-1889-46e4-bfaa-28dd3f3b9bb4)
 20. This is what you will see it will show us everything from ip, where it is and everything between our next step is to Remote into it.(Note: This is for Windows not MacOs)
     We will open "Remote Desktop Connection". Hit your start button and search "Remote Desktop Connection".
-    ![opera_wfxlwa763o](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c9cc66dd-4360-4397-8599-7c3ed19c2633)
+   ![opera_wfxlwa763o](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/9202ba67-adea-422a-bd06-b8e29b8d63b9)
+
 22. When you open "Remote Desktop Connection" It will look like this.
     
-    ![mstsc_KBKe34TGhe](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/40d12c91-2953-4992-9293-9900f33c5803)
+  ![mstsc_ZBdrP4CU8H](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1d554d86-7120-44de-aead-5cd0fe28c30d)
     
 23. Now all you need is the Puplic IP from your Vm and enter it into "Remote Desktop Connection". After that you will need to log into the Admin you made.
-    ![SISJxtY6n3](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/e4a3ed96-cb1c-454f-b45b-f4f55cc6cda7) ![n5x0F1w95l](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/22214d3f-95a3-43b5-a95f-99698c57f2a7)
+    ![opera_KUBeg1COlk](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/3f0a0dca-b3fa-45da-a6be-83278f5c20e1)![1dVd6ya4cq](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/a0165a69-c888-45f5-abd5-d32b761b1dd0)
 24. Enter your Credentials
         
-    ![1dVd6ya4cq](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/28b4b8a5-d5c5-4c32-96ea-4ed119deeec2) ![lUHKQeHpH9](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/48fff35e-2622-49f2-9a27-bf74ae6d35f3)
+    ![CredentialUIBroker_gtyCCTSX8S](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/66438062-0eef-4a08-8be2-ed95855aefc0)![CredentialUIBroker_pnJb0kh2ei](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/a5bbba37-9571-4515-b083-c9864c70d028)
 25. Hit yes
     
-    ![8onf5n8zNs](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6fb453a8-c7b2-44fe-98ae-65c6db16086a)
+   ![8onf5n8zNs](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c62dc059-3af3-4624-b305-d04f03b39220)
 26. Select Next or change anything you want to, you do not need to say yest to any of thses settings.
 
-![hrh6pCFbxp](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/82ee1661-b42d-4b30-97f3-7f3c7be65fad)
+![mstsc_mnIOd017HF](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/82df4b27-9dd9-4c60-9e5a-17f9b2d4f12d)
 
 27. Congrats you are now in your Vm and can do anything you would like to. 
-    ![mstsc_KBuQeuGYc4](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/79ee733f-feb2-4123-be9b-31ed7051da39)
+
+    ![mstsc_KBuQeuGYc4](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/f5b8b54f-d549-46f7-aa50-b6b0c860575d)
 
     Thank you for following this guide and let me know if you are having issues or need help. 
