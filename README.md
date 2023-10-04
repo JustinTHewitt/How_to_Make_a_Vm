@@ -18,25 +18,23 @@ There is an option for a free trial that will give us 200 credits for 30 days so
 ![S5gx6ApjiZ](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/5fab6846-e684-4642-9b9f-dfaab23e8046)
 4. That will bring us to a Sign up/Sign.
 ![kWCU57Zuc3](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/5ea31ab8-d6c9-47a7-9e20-2988370e30e5)
-5. After signing up/loging in with a micrsoft account it should bring you to this page.
+5. After signing up/loging in with a micrsoft account it should bring you to this page. You will select start free trail.
+![lfyaNqG1lW](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/badf250f-26fe-4318-aaaa-77335597ce6e)
+6. It will bring you to a new page were you will need to select start free. (In some cases you will need to log in agian.)
 ![opera_QDewBXjUAj](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/72d3441a-a6a4-4f69-8e89-f7c596fcc61b)
-6. You will select start free trail.
-![lAKUgksaPG](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/afdf3850-63bf-45fd-b933-c2052c5eca7a)
-7. It will bring you to a new page were you will need to select start free. (In some cases you will need to log in agian.)
-![lfyaNqG1lW](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6c364875-b9a6-4bdc-b94f-399dcfb59a28)
-8. When you are done you can head back to the mian Azure page. (https://portal.azure.com/#home)
+7. When you are done you can head back to the mian Azure page. (https://portal.azure.com/#home)
 ![opera_veiUYVV8ry](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/14d11677-23d0-4d0e-adc6-8308a363a36c)
-9. When you are at the main page you can either select Virtual machines or type Vm/ VIrtual machines into the search bar.
+8. When you are at the main page you can either select Virtual machines or type Vm/ VIrtual machines into the search bar.
    THere are other ways we could do this, like making a resource group before hand but I perfer it this way. 
 ![E7CENPqooV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c0bffa06-79a5-46f8-94b1-51696939d8dd)
-10. When you select or type Virtual machines it will bring you to this page. 
+9. When you select or type Virtual machines it will bring you to this page. 
 ![opera_5fWk4CxuTy](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/5c4ac83e-bf6a-41f5-b063-0bb96e73b978)
-11. you will select create there are two creates, but it is okay as along as you slect "Azure Virtual Machine"
+10. you will select create there are two creates, but it is okay as along as you slect "Azure Virtual Machine"
 ![BbChRJh8Z7](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/8827cd3b-e3af-4a3b-a559-d83207eb86f1)   
 ![I8iEmbgmMf](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6c514024-79e8-4996-afd6-9a6f23fdedc9)
-12. After selecting "Azure Virtual Machine" it will bring you to this screen.
+11. After selecting "Azure Virtual Machine" it will bring you to this screen.
 ![opera_byfimC3dns](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1dff0952-86dd-4e33-aec1-24fe7825e36e)
-13. I know this can look like alot so we will take this one at a time. you will see "Azure subscription 1" we wont be messing with this right now,
+12. I know this can look like alot so we will take this one at a time. you will see "Azure subscription 1" we wont be messing with this right now,
    but this can be usefull when dealing with diffrent teams and budgets. We will see "Resource group" we will hit create new and type in a name,
    for this i will be using "Testing" you can use anything you would like to.
 ![OZGqnGfw9l](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/555253cf-fa2b-4cfa-9a57-fcc8d4d981dc)
