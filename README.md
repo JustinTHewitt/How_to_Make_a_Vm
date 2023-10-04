@@ -30,22 +30,23 @@ There is an option for a free trial that will give us 200 credits for 30 days so
 9. When you select or type Virtual machines it will bring you to this page. 
 ![opera_5fWk4CxuTy](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/268d9424-33d1-4159-b025-0ae507de3cf9)
 10. you will select create there are two creates, but it is okay as along as you slect "Azure Virtual Machine"
-![BbChRJh8Z7](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/8827cd3b-e3af-4a3b-a559-d83207eb86f1)   
-![I8iEmbgmMf](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6c514024-79e8-4996-afd6-9a6f23fdedc9)
+![I8iEmbgmMf](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/27e66d22-4630-4041-ba0c-863b17e2537c)
+![BbChRJh8Z7](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/45cd0bb1-5604-494a-93cb-ff75520d12d9)
 11. After selecting "Azure Virtual Machine" it will bring you to this screen.
-![opera_byfimC3dns](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1dff0952-86dd-4e33-aec1-24fe7825e36e)
-12. I know this can look like alot so we will take this one at a time. you will see "Azure subscription 1" we wont be messing with this right now,
+![opera_5fWk4CxuTy](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/32be8236-ebe5-45a7-bd88-40e7df79fc03)
+12. Hit create. I know this can look like alot so we will take this one at a time. you will see "Azure subscription 1" we wont be messing with this right now,
    but this can be usefull when dealing with diffrent teams and budgets. We will see "Resource group" we will hit create new and type in a name,
    for this i will be using "Testing" you can use anything you would like to.
-![OZGqnGfw9l](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/555253cf-fa2b-4cfa-9a57-fcc8d4d981dc)
+![OZGqnGfw9l](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/74367527-e11e-4d21-a303-a9bcf4b0a128)
 13. Then you will select testing and it will appear as "(New) Testing".
-![opera_VB0BzZVgNq](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/bbc0583e-4bd7-4026-9f67-ad5b07693a55)
+![opera_VB0BzZVgNq](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/633596af-3d5b-40f5-b4f0-7b01a52a28c1)
 14.  Now we will focus on "Instance Details", this will be naming the device, what region you want, Availability options, and Availability zones.
     Naming the Device is simple, it is just what we want to call it and what other devices will see us as. Region is also an easy one, this is important if we need it somewhere specific or only contracted to work in one region, 
     and if a customer needs it somewhere specific. Availability options help if you want your resources shared at different locations in case something was to go down i.e Fires, blackouts. Availability zones are optional if you want to specify
     what availability zone to deploy your Virtual Machine.
     I will be naming my Vm "Test"
-![amUwJ79SKV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/adadce75-4802-4ccd-bf25-654a3165bc54) ![tioO29zQt6](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/41af45a9-b070-46f4-acd3-10920100604e)
+![amUwJ79SKV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6e20c5cb-9d12-4c74-afaf-0c1d3bafa1f5)![opera_VB0BzZVgNq] 
+![tioO29zQt6](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/2b3e5ebc-9678-40f5-a5f2-4b9a02f4c471)
 15. Now you will see security types you can mess with if you would like standard, trusted launch, or confidential, I will be using trusted launch.
     Next is choosing our OS or operating system. They have a lot of options and different versions like:Windows10 pro/ Windows 11 pro/ ubuntu/Windows servers. I will be selecting windows 11 pro.
     Next is Vm architecture which we will not have to mess with now but is useful when using certain programs. Eviction type and policy we will not mess with right now. 
