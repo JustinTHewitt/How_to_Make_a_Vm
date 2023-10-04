@@ -45,7 +45,7 @@ There is an option for a free trial that will give us 200 credits for 30 days so
     and if a customer needs it somewhere specific. Availability options help if you want your resources shared at different locations in case something was to go down i.e Fires, blackouts. Availability zones are optional if you want to specify
     what availability zone to deploy your Virtual Machine.
     I will be naming my Vm "Test"
-![amUwJ79SKV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6e20c5cb-9d12-4c74-afaf-0c1d3bafa1f5)![opera_VB0BzZVgNq] 
+![amUwJ79SKV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6e20c5cb-9d12-4c74-afaf-0c1d3bafa1f5)!
 ![tioO29zQt6](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/2b3e5ebc-9678-40f5-a5f2-4b9a02f4c471)
 15. Now you will see security types you can mess with if you would like standard, trusted launch, or confidential, I will be using trusted launch.
     Next is choosing our OS or operating system. They have a lot of options and different versions like:Windows10 pro/ Windows 11 pro/ ubuntu/Windows servers. I will be selecting windows 11 pro.
@@ -80,7 +80,9 @@ There is an option for a free trial that will give us 200 credits for 30 days so
 25. Hit yes
     
    ![8onf5n8zNs](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c62dc059-3af3-4624-b305-d04f03b39220)
+   
 26. Select Next or change anything you want to, you do not need to say yest to any of thses settings.
+
 
 ![mstsc_mnIOd017HF](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/82df4b27-9dd9-4c60-9e5a-17f9b2d4f12d)
 
