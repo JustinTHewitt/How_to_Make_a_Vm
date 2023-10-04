@@ -21,14 +21,14 @@ There is an option for a free trial that will give us 200 credits for 30 days so
 5. After signing up/loging in with a micrsoft account it should bring you to this page. You will select start free trail.
 ![lfyaNqG1lW](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/badf250f-26fe-4318-aaaa-77335597ce6e)
 6. It will bring you to a new page were you will need to select start free. (In some cases you will need to log in agian.)
-![opera_QDewBXjUAj](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/72d3441a-a6a4-4f69-8e89-f7c596fcc61b)
+![lAKUgksaPG](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/0052ab05-c162-4f5d-b8df-ae1a8abe6441)
 7. When you are done you can head back to the mian Azure page. (https://portal.azure.com/#home)
-![opera_veiUYVV8ry](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/14d11677-23d0-4d0e-adc6-8308a363a36c)
+![opera_veiUYVV8ry](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/b58c1397-5445-4fcd-9a47-19129efef087)
 8. When you are at the main page you can either select Virtual machines or type Vm/ VIrtual machines into the search bar.
    THere are other ways we could do this, like making a resource group before hand but I perfer it this way. 
-![E7CENPqooV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/c0bffa06-79a5-46f8-94b1-51696939d8dd)
+![E7CENPqooV](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/1edef8d8-ed83-427e-88b0-56a528b89e9d)
 9. When you select or type Virtual machines it will bring you to this page. 
-![opera_5fWk4CxuTy](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/5c4ac83e-bf6a-41f5-b063-0bb96e73b978)
+![opera_5fWk4CxuTy](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/268d9424-33d1-4159-b025-0ae507de3cf9)
 10. you will select create there are two creates, but it is okay as along as you slect "Azure Virtual Machine"
 ![BbChRJh8Z7](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/8827cd3b-e3af-4a3b-a559-d83207eb86f1)   
 ![I8iEmbgmMf](https://github.com/JustinTHewitt/How_to_Make_a_Vm/assets/146316539/6c514024-79e8-4996-afd6-9a6f23fdedc9)
